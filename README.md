@@ -24,3 +24,6 @@ The structure I used on my google drive is as follows.
             └── bd_repaired_10_weights.h5
             └── bd_repaired_10.h5
 ```
+
+eval.py code is integrated in the ipython notebook itself. 
+To run the code, simply setup the file directory structure as shown above in your drive and run sc9865_MLSec_Lab4.ipynb
