@@ -2,6 +2,7 @@
 
 Th dataset can be found [here](https://drive.google.com/drive/folders/13o2ybRJ1BkGUvfmQEeZqDo1kskyFywab) and original badnet models [here](https://github.com/csaw-hackml/CSAW-HackML-2020/tree/master/lab3/models).
 
+```bash
 The structure I used on my google drive is as follows.
 ├── ML for Cybersecurity 
     ├── CSAW-HackML-2020-master
@@ -22,3 +23,4 @@ The structure I used on my google drive is as follows.
             └── bd_repaired_4.h5
             └── bd_repaired_10_weights.h5
             └── bd_repaired_10.h5
+```
